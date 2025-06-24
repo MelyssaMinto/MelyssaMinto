@@ -7,13 +7,13 @@
 
 ### 🧠 About Me
 
-I'm a computational biologist passionate about building scalable solutions that drive discovery in genomics, neurobiology, and precision medicine. My work bridges the gap between complex biological data and actionable insights using statistical modeling, cloud-native tools, and increasingly—ML/AI methods.
+I'm a computational biologist passionate about building scalable solutions that drive discovery in genomics, neurobiology, and precision medicine. My work bridges the gap between complex biological data and actionable insights using statistical modeling, cloud-native tools, and increasingly ML/AI methods.
 
 ---
 
 ### 🔍 What I Do
 
-- 🔬 **Omics Pipeline Development**: Designed modular pipelines for multi-omic data integration (DNA methylation, RNA-seq, chromatin accessibility).
+- 🔬 **Omics Pipeline Development**: Designed modular pipelines for multi-omic data integration (DNA methylation, RNA-seq, chromatin accessibility) and deploy models to understand associations betweeen genes and disease/phenotypes.
 - 🤖 **ML/AI for Research Acceleration**: Led development of AI-driven tools to summarize gene–phenotype networks from literature.
 - ☁️ **Cloud-Savvy Analysis**: Built cost-efficient compute clusters with AWS EC2 + Docker for high-throughput biological data processing.
 
@@ -21,9 +21,7 @@ I'm a computational biologist passionate about building scalable solutions that 
 
 ### 💡 Currently Exploring
 - 🔎 AI for Biological Discovery: Using large language models and graph-based methods to extract gene–disease knowledge from scientific literature.
-
 - ⚙️ MLOps & ML Engineering: Building reproducible, scalable workflows for training, evaluating, and deploying ML models—leveraging tools like Docker, GitHub Actions, and model versioning.
-
 - 🧪 Causal ML & Inference: Applying causal reasoning and structured priors to biological data for more interpretable insights in translational research.
 
 ---
