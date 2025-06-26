@@ -41,7 +41,7 @@ I'm a computational biologist passionate about building scalable solutions that 
 
 - 💼 [LinkedIn](https://linkedin.com/in/melyssaminto)  
 - 🧪 [Google Scholar](https://scholar.google.com/citations?user=4_3eFXcAAAAJ&hl=en)
-
+- 📝 [Substack](https://melyssaminto.substack.com/)
 ---
 
 _“Bridging biology and AI to unlock new frontiers in health and disease.”_
